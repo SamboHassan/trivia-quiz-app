@@ -49,4 +49,5 @@ By making notes ahead of time, you will practice the core skill of being able to
 > View the [Frontend README](./frontend/README.md) for more details.
 
 ### Screenshot
-https://github.com/SamboHassan/trivia-quiz-app/issues/1#issue-1442034477
+
+![alt text](https://github.com/SamboHassan/trivia-quiz-app/blob/main/udacitrivia.jpg)
